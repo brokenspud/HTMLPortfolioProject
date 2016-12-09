@@ -1,0 +1,13 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+.header {
+    background-image: url(https://brokenspud.github.io/HTMLPortfolioProject/uoqkljke2os-alberto-restifo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
